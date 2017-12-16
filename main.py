@@ -12,3 +12,4 @@ clf = clf.fit(features, labels)
 # prints must have params
 print (clf.predict([[150,0]]))
 # wtf!!!!!!!
+# Post thighs!!!!
