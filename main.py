@@ -11,4 +11,3 @@ clf = clf.fit(features, labels)
 
 #prints must have params
 print (clf.predict([[150,0]]))
-print (clf.predict([[90,1]]))
